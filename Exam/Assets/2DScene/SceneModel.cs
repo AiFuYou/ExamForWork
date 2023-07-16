@@ -3,8 +3,6 @@ using System.Collections.Generic;
 
 public class SceneModel
 {
-    // 空间划分算法（kdtree？）
-    
     // 对场景中动态物体进行空间划分
     // 树Dynamic
     // PartSceneDynamic();

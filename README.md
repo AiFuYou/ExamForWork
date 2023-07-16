@@ -11,6 +11,6 @@ Unity工程运行场景`Assets/Move/MoveScene.unity`
 
 两个要点：
 * 对象池
-* 场景划分
+* 空间划分
 ### 实现思路
 ![](2D场景10w个gameObject管理.png)
