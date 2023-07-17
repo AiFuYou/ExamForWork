@@ -10,5 +10,6 @@ public class SceneItem : MonoBehaviour
         // 设置对象状态
         // 对象回收到对象池
         // 取消与SceneItemModel的关联
+        // ObjectPoolManager.Put(this);
     }
 }
